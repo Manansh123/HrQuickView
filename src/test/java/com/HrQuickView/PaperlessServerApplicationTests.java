@@ -1,10 +1,10 @@
-package com.hrmaagement.HrManagement_server;
+package com.HrQuickView;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
 
 @SpringBootTest
-class HrManagementServerApplicationTests {
+class PaperlessServerApplicationTests {
 
 	@Test
 	void contextLoads() {

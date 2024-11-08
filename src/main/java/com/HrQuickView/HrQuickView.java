@@ -1,13 +1,13 @@
-package com.hrmaagement.HrManagement_server;
+package com.HrQuickView;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
-public class HrManagementServerApplication {
+public class HrQuickView {
 
 	public static void main(String[] args) {
-		SpringApplication.run(HrManagementServerApplication.class, args);
+		SpringApplication.run(HrQuickView.class, args);
 	}
 
 }
